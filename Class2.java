@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Kunal Khadka
  */
 
 public class Class2 {
